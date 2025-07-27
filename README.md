@@ -1,4 +1,4 @@
-This repository contains a Verilog testbench for a Mealy Machine-based vending machine that:
+This repository contains a Verilog code and its testbench for a Mealy Machine-based vending machine that:
   Accepts cash input.
   Checks item availability and price.
   Dispenses items and change.

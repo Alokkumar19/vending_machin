@@ -1,0 +1,7 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+D:/verilog_all/vending_machine/vending_machine.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+D:/verilog_all/vending_machine/vending_machine.srcs/sim_1/new/tb_vending_machine.v,1753642628,verilog,,,,tb_vending_machine,,,,,,,,
+D:/verilog_all/vending_machine/vending_machine.srcs/sources_1/new/vending_machine_mealy.v,1753642102,verilog,,D:/verilog_all/vending_machine/vending_machine.srcs/sim_1/new/tb_vending_machine.v,,vending_machine_mealy,,,,,,,,
